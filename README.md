@@ -14,13 +14,13 @@
 
 ##### 
 
-##### \ **Tools Used**
+##### Tools Used
 
 ##### 
 
-##### \* PostgreSQL (Data Analysis)
+##### PostgreSQL (Data Analysis)
 
-##### \* Microsoft Excel (Dashboard \& Visualization)
+##### Microsoft Excel (Dashboard \& Visualization)
 
 ##### 
 
@@ -28,7 +28,7 @@
 
 ##### 
 
-##### \ **Project Overview**
+##### Project Overview
 
 ##### 
 
@@ -40,23 +40,23 @@
 
 ##### 
 
-##### \ **Key Business Questions**
+##### Key Business Questions
 
 ##### 
 
-##### \* What is total revenue, orders, and units sold?
+##### What is total revenue, orders, and units sold?
 
-##### \* Which category generates the most revenue?
+##### Which category generates the most revenue?
 
-##### \* Which products generate highest revenue?
+##### Which products generate highest revenue?
 
-##### \* Which brands dominate sales?
+##### Which brands dominate sales?
 
-##### \* How does revenue change over time?
+##### How does revenue change over time?
 
-##### \* Which payment method is most used?
+##### Which payment method is most used?
 
-##### \* Which category performs best each year?
+##### Which category performs best each year?
 
 ##### 
 
@@ -64,7 +64,7 @@
 
 ##### 
 
-##### \**Key Insights**
+##### Key Insights
 
 ##### 
 
@@ -90,7 +90,7 @@
 
 ##### 
 
-##### \**Dashboard**
+##### Dashboard
 
 ##### 
 
