@@ -7,6 +7,9 @@
 ##### 
 
 ##### Analyze Amazon sales data to understand business performance, customer behavior, and revenue trends using SQL \& Excel.
+## 📊 Dashboard Preview
+
+![Dashboard](amazon_dashboard.jpg)
 
 ##### 
 
@@ -137,9 +140,7 @@
 ##### \* Business-driven insights generation.
 
 ##### \* Interactive dashboard creation.
-## 📊 Dashboard Preview
 
-![Dashboard](amazon_dashboard.jpg)
 
 ##### \---
 
