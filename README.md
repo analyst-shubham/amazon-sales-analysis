@@ -2,7 +2,7 @@
 
 ##### 
 
-##### \# **Objective**
+##### \**Objective**
 
 ##### 
 
@@ -14,7 +14,7 @@
 
 ##### 
 
-##### \## **Tools Used**
+##### \ **Tools Used**
 
 ##### 
 
@@ -28,7 +28,7 @@
 
 ##### 
 
-##### \## **Project Overview**
+##### \ **Project Overview**
 
 ##### 
 
@@ -40,7 +40,7 @@
 
 ##### 
 
-##### \## **Key Business Questions**
+##### \ **Key Business Questions**
 
 ##### 
 
@@ -64,7 +64,7 @@
 
 ##### 
 
-##### \## **Key Insights**
+##### \**Key Insights**
 
 ##### 
 
@@ -90,7 +90,7 @@
 
 ##### 
 
-##### \## **Dashboard**
+##### \**Dashboard**
 
 ##### 
 
@@ -112,7 +112,7 @@
 
 ##### 
 
-##### \## **How to Use**
+##### \ **How to Use**
 
 ##### 
 
@@ -126,7 +126,7 @@
 
 ##### 
 
-##### \## **Project Highlights**
+##### \**Project Highlights**
 
 ##### 
 
@@ -145,7 +145,7 @@
 
 ##### 
 
-##### \## **Author**
+##### \**Author**
 
 ##### 
 
