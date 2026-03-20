@@ -137,8 +137,9 @@
 ##### \* Business-driven insights generation.
 
 ##### \* Interactive dashboard creation.
+## 📊 Dashboard Preview
 
-
+![Dashboard](amazon_dashboard.jpg)
 
 ##### \---
 
