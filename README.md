@@ -2,7 +2,7 @@
 
 ##### 
 
-##### \**Objective**
+##### Objective
 
 ##### 
 
