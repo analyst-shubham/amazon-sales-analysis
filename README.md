@@ -112,7 +112,7 @@
 
 ##### 
 
-##### \ **How to Use**
+##### How to Use
 
 ##### 
 
@@ -126,7 +126,7 @@
 
 ##### 
 
-##### \**Project Highlights**
+##### Project Highlights
 
 ##### 
 
@@ -145,7 +145,7 @@
 
 ##### 
 
-##### \**Author**
+##### Author
 
 ##### 
 
